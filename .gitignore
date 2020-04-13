@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Problem files
+*.pdf
+*.docx
+*.txt
